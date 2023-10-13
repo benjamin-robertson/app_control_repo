@@ -1,4 +1,4 @@
-# Class: profile::motd
+# Class: profile::motd.
 #
 #
 class profile::motd {
