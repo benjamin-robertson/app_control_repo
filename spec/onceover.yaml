@@ -1,6 +1,6 @@
 # Classes to be tested
 classes:
-
+  - role::base
 # Nodes to tests classes on, this refers to a 'factset' or 'nodeset'
 # depending on whether you are running 'spec' or 'acceptance' tests
 nodes:
